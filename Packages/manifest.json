@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.xr.arfoundation": "1.0.0-preview.12",
+    "com.unity.xr.arcore": "1.0.0-preview.16"
+  }
+}
